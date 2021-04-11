@@ -1,5 +1,7 @@
 # faken-portfolio
 
+[![GPL Licence](https://firstcontributions.github.io/open-source-badges/badges/licence-gpl/gpl.svg)](https://opensource.org/licenses/GPL-3.0/)
+
 This is a small svelte project created by me to showcase my skills and abilities, a general about-me.
 
 Create a duplicate using [degit](https://github.com/Rich-Harris/degit):
